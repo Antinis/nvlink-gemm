@@ -2,6 +2,7 @@
 
 编译：
 make
+
 请注意把Makefile中的-arch=sm_70改为对应GPU架构，如H系列GPU为sm_90a。
 
 运行：
