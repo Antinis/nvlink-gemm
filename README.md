@@ -7,3 +7,5 @@ make
 
 运行：
 ./run_tests.sh > out.log
+
+运行输出在out.log中。
